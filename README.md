@@ -32,7 +32,7 @@ The screenshot of the completed project is :-
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Solution URL: [ project live url ](https://product-preview-card-component21.netlify.app/)
 
 ## My process
 
@@ -53,4 +53,4 @@ I will focus in the responsiveness and will try to learn 100% .
 
 
 ## Author
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
+- Frontend Mentor - [@Benyameen-cs](https://www.frontendmentor.io/profile/Benyameen-cs)
